@@ -1,1 +1,1 @@
-Este es el capítulo 2 de Git
+Este es el capítulo 2 de Git. Para nueva branch
